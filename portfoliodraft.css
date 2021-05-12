@@ -1,0 +1,27 @@
+body{
+    color: #000080;
+    background-color: aqua;
+}
+nav{
+    color: grey;
+    background-color: white;
+    border-style: dashed;
+}
+li{
+    color: aqua;
+    border-style: dashed;
+}
+.center{
+    color: white;
+}
+h1{
+    background-color: aliceblue;
+    border-style: dashed;
+    font-family: ariel;
+    letter-spacing: 0.18em;
+    float: center;
+}
+p{
+    background-color: white;
+    border-style: dashed;
+}

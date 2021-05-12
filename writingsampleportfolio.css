@@ -1,0 +1,40 @@
+body {
+    color: #000080;
+    background-color: aqua;
+}
+
+h1{
+    color: black;
+    font-family: ;
+    letter-spacing: 0.18em; 
+}
+
+p{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #808080;
+    background-color: white;
+    padding: 15px
+} 
+a.button:link {
+    color: blue;
+    border: 1px solid ;
+    padding: 2px;
+    position: relative;
+    bottom: 19px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+a.button:active {
+    color: #008b8b;
+}
+a.button:visited {
+    color: #03d2e1;
+    border: #03d2e1;
+    background-color: #03d2e1;
+}
+a.button:hover {
+    color: #add8e6;
+    border: #add8e6;
+    background-color: #03d2e1;
+}
